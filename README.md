@@ -3,4 +3,4 @@
 
 Part of Game Engine 1
 
-![Image of Test] (Test Image.png)
+(Test Image.png)
